@@ -1,0 +1,20 @@
+.pink-highlight {
+    color: black;
+    background-color: rgb(255, 182, 193);
+    font-family: "Verdana", "DejaVu", sans-serif; 
+}
+
+.pink-highlight.bigger-text {
+    font-size: 24px;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-highlight {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
